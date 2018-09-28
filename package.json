@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-htoooth-test",
+  "version": "1.0.0",
+  "description": "eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RaichuCli/eslint-config-htoooth-test.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "author": "htoooth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaichuCli/eslint-config-htoooth-test/issues"
+  },
+  "homepage": "https://github.com/RaichuCli/eslint-config-htoooth-test#readme",
+  "devDependencies": {
+    "eslint-config-htoooth": "^1.0.1"
+  }
+}
